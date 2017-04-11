@@ -6,8 +6,8 @@ config_slack_url = 'https://hooks.slack.com/services/T4XB9GQ02/B4WLTDV6V/67omwHd
 config_run_as_daemon = False
 
 ### Locales
-#config_locale = 'English_United States' # Windows locale
-config_locale = 'en_US' # Generic linux/mac locale
+config_locale = 'English_United States' # Windows locale
+#config_locale = 'en_US' # Generic linux/mac locale
 #config_locale = 'en_US.UTF-8' # Ubuntu linux locale
 #config_locale = '' # Use default locale
 ### Locales
